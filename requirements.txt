@@ -1,2 +1,2 @@
 git+https://github.com/ansible/ansible-builder.git@devel#egg=ansible-builder
-python39 >= 2.0.1
+python39 >= 3.0.1
